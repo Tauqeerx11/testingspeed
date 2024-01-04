@@ -29,7 +29,7 @@ public class CalcTest {
 		assert result>6: "value should be greater than 6"; 
 	
 	}
-
+//
 	@Test
 	public void testSubtraction() {
 		int result=c.subtraction(5, 7);
